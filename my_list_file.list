@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://gyanug@gmail.com.github.io/my_ppa ./

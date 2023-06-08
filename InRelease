@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Thu, 08 Jun 2023 08:06:48 +0000
+MD5Sum:
+ 872f603987d34cfbc62e25a508b19d14              398 Packages
+ 65f38bd7f0568b4a6693c8608974f774              311 Packages.gz
+ e5918a908cbf3aedf58db8637f8799e2               38 Release
+SHA1:
+ 879f2b51e88b67fba7ce8da7751cd065a0c1b465              398 Packages
+ bfdae09cb108b8c95fe67776e8a3ccaf6564d671              311 Packages.gz
+ bc932cba9a1a1ef41fdd9b83b0ce613c01287ff8               38 Release
+SHA256:
+ 9eecc3c3e77adbd443fdc8efad76db80a96042d19fdea1517dd4709d0dc8f59a              398 Packages
+ f2460c6124699b4ee3fa347b527f581560e296804c7b9cfbadeed57b78e43145              311 Packages.gz
+ c16746ecc6a9e9f26c915c23d13e9528e86a79c87c0e3b40d48e2877a8b3fbfb               38 Release
+SHA512:
+ def3b03277e2d26bc60f1987dc5c9b692f2c3ae21a3f79af475b095bffc3e214ac4fadbc9c1497f0b7cfec30706ed0ef485c148d90338ae22e3542b27f8faefb              398 Packages
+ ef492a6680ec10e3aa80b73f0b5904e4938c33c6e639cc7f546f35c89e2ebc49d6d5984a757910c9622ab865f2306c4aabcb7e1bd38a46d2a6801e9ddda01e2f              311 Packages.gz
+ ecf96f7a114236dd197bf9efe3437a8c65bdd441bab73d63b98b27580907e581baae0a2f7bb6631215a41e8b841bbc30b7ba3db34394f9c66b2e140a84728a1e               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJDBAEBCgAtFiEEdklI5Ju69+a4gWiyvgSxJBcCZv4FAmSBjC0PHGctZ3VwdGFA
+dGkuY29tAAoJEL4EsSQXAmb+k2sQAKryGR8oqKNAA47rdwlwkXYe4TTECno6KhuC
+dlxFKTR4hIwrV3NjYa1AlIphHjCoehi7sWoajPkC3bJPyXF6mZaeX6XJDWE48ocx
+ehhxuti47UvGhXvIEEAec99le7TdbQJmFzVzXPFlEdHFbi37PbpoF92XbDSfRImz
+/Q3Q+ufY0Hl2EGQjZ2pk3IAQKtIxoA1nU5S04d65i+4TFq881ibwEsi5/aP0Ubdg
+4OOLaJb6wKDzqja6EhFjxDLH20Lac7ZLdXH/QPwBFLuTGus1Umo7LsSat4vtb6F5
+6H02vHSwoEV29fgsG5C0sRoQ9frTwXFb1ZyWEo8rEj8Bwv43cShIdWftaI+Uefzi
+E/m+SIbB8rR+9AawT+W16uvxA2otBTJ154BYToXaA0eFYzaRrK73VrWnkOI3GAhU
+WyEECGzr+FKyLMikMuiGeubif9qMPC2Sz+M7YCL7cMVeTzhWohsEjnqYvcye/VwR
+mRxbbBzskZ2EgLH5Ro20Lsn6v3w19wdv6IrtNlYPE7N3GlLH79FTlFhYR/SSOU9A
+l3Pj8WA13rBfr/KFdA2wJbqAL+Ya58p1LRtTozLvACTY2BbUYYaq9iAqro1rwOOv
+SQ/n+6qUZ9pfYiAdkFdIZw/+6qxLQvCpPZalhdCZswaTbxtPxeEloXRKIvUZ8z5t
+13Y0OHAp
+=Jmz5
+-----END PGP SIGNATURE-----
